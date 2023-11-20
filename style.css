@@ -1,0 +1,27 @@
+body {
+  background: black;
+  padding: 3vw;
+}
+
+.homepagedivs1 {
+  height: 43.5vw;
+  width: 23vw;
+  border: 2px solid #d4af37;
+  background-image: url(https://www.denverpost.com/wp-content/uploads/2016/05/20071025__20071026_A6_AE26KINGTUTJp1.jpg?w=640);
+}
+
+.homepagedivs2 {
+  height: 43.5vw;
+  width: 23vw;
+  border: 2px solid #d4af37;
+}
+
+.homepagedivs3 {
+  height: 43.5vw;
+  width: 23vw;
+  border: 2px solid #d4af37;
+}
+
+.containerofhomepagedivs {
+  justify-content: space-around;
+}
