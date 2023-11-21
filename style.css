@@ -26,11 +26,17 @@ body {
   height: 43.5vw;
   width: 23vw;
   border: 2px solid #d4af37;
-  background-image: url(https://png.pngtree.com/background/20230526/original/pngtree-3d-pyramid-of-qais-on-black-background-picture-image_2749665.jpg);
+  background-image: url();
   background-repeat: no-repeat;
   background-position: center bottom;
 }
 
 .containerofhomepagedivs {
   justify-content: space-around;
+}
+
+.homepagedivs1:hover {
+  scale: 1.05;
+  animation-duration: 2s;
+  transition: 1.5s ease-in-out;
 }
