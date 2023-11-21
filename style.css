@@ -37,6 +37,5 @@ body {
 
 .homepagedivs1:hover {
   scale: 1.05;
-  animation-duration: 2s;
-  transition: 1.5s ease-in-out;
+  transition: .75s ease-in-out;
 }
