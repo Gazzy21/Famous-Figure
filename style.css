@@ -8,18 +8,27 @@ body {
   width: 23vw;
   border: 2px solid #d4af37;
   background-image: url(https://www.denverpost.com/wp-content/uploads/2016/05/20071025__20071026_A6_AE26KINGTUTJp1.jpg?w=640);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background: radial-gradient(black, rgb(40, 40, 40));
 }
 
 .homepagedivs2 {
   height: 43.5vw;
   width: 23vw;
   border: 2px solid #d4af37;
+  background-image: url(https://img.freepik.com/premium-photo/close-up-golden-pyramid-with-black-background-generative-ai_899870-37946.jpg);
+  background-repeat: no-repeat;
+  background-position: center bottom;
 }
 
 .homepagedivs3 {
   height: 43.5vw;
   width: 23vw;
   border: 2px solid #d4af37;
+  background-image: url(https://png.pngtree.com/background/20230526/original/pngtree-3d-pyramid-of-qais-on-black-background-picture-image_2749665.jpg);
+  background-repeat: no-repeat;
+  background-position: center bottom;
 }
 
 .containerofhomepagedivs {
