@@ -3,6 +3,10 @@ body {
   padding: 3vw;
 }
 
+body.mainpage {
+  padding: 0;
+}
+
 .homepagedivs1 {
   height: 43.5vw;
   width: 23vw;
@@ -50,6 +54,10 @@ body {
 
 .containerofhomepagedivs {
   justify-content: space-around;
+}
+
+.myborder {
+  border: 2px solid #d4af37;
 }
 
 
