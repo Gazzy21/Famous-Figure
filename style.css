@@ -10,32 +10,50 @@ body {
   background-image: url(https://www.denverpost.com/wp-content/uploads/2016/05/20071025__20071026_A6_AE26KINGTUTJp1.jpg?w=640);
   background-repeat: no-repeat;
   background-position: center bottom;
-  background: radial-gradient(black, rgb(40, 40, 40));
+}
+
+.homepagedivs1:hover {
+  scale: 1.05;
+  transition: all .5s ease;
+  animation-direction: reverse;
 }
 
 .homepagedivs2 {
   height: 43.5vw;
   width: 23vw;
   border: 2px solid #d4af37;
-  background-image: url(https://img.freepik.com/premium-photo/close-up-golden-pyramid-with-black-background-generative-ai_899870-37946.jpg);
+  background-image: url("https://img.freepik.com/premium-photo/close-up-golden-pyramid-with-black-background-generative-ai_899870-37946.jpg");
   background-repeat: no-repeat;
   background-position: center bottom;
+}
+
+.homepagedivs2:hover {
+  scale: 1.05;
+  transition: all .5s ease;
+  animation-direction: reverse;
 }
 
 .homepagedivs3 {
   height: 43.5vw;
   width: 23vw;
   border: 2px solid #d4af37;
-  background-image: url();
+  background-image: url(https://cdn.create.vista.com/api/media/small/471051484/stock-vector-black-back-closed-envelope-shape);
   background-repeat: no-repeat;
   background-position: center bottom;
+}
+
+.homepagedivs3:hover {
+  scale: 1.05;
+  transition: all .5s ease;
+  animation-direction: reverse;
 }
 
 .containerofhomepagedivs {
   justify-content: space-around;
 }
 
-.homepagedivs1:hover {
-  scale: 1.05;
-  transition: .75s ease-in-out;
-}
+
+
+
+
+
