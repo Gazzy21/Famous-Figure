@@ -11,7 +11,7 @@ body.mainpage {
   height: 43.5vw;
   width: 23vw;
   border: 2px solid #d4af37;
-  background-image: url(https://www.denverpost.com/wp-content/uploads/2016/05/20071025__20071026_A6_AE26KINGTUTJp1.jpg?w=640);
+  background-image: url("https://www.denverpost.com/wp-content/uploads/2016/05/20071025__20071026_A6_AE26KINGTUTJp1.jpg?w=640");
   background-repeat: no-repeat;
   background-position: center bottom;
 }
@@ -41,7 +41,7 @@ body.mainpage {
   height: 43.5vw;
   width: 23vw;
   border: 2px solid #d4af37;
-  background-image: url(https://cdn.create.vista.com/api/media/small/471051484/stock-vector-black-back-closed-envelope-shape);
+  background-image: url("https://cdn.create.vista.com/api/media/small/471051484/stock-vector-black-back-closed-envelope-shape");
   background-repeat: no-repeat;
   background-position: center bottom;
 }
@@ -60,6 +60,11 @@ body.mainpage {
   border: 2px solid #d4af37;
 }
 
+.ancientfont {
+  font-family: ;
+}
+
+/* https://fonts.google.com/specimen/Caesar+Dressing */
 
 
 
