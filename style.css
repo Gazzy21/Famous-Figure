@@ -56,6 +56,10 @@ body.mainpage {
   justify-content: space-around;
 }
 
+.bg-hero-image {
+  background: url(Egyptian-Hieroglyph-Background-Graphics-73674352-1.png);
+}
+
 .myborder {
   border: 2px solid #d4af37;
 }
