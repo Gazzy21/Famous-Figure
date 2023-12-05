@@ -67,6 +67,11 @@ body.mainpage {
   border: 2px solid #d4af37;
 }
 
+.mybordertop {
+  border-top: 2px solid #d4af37;
+}
+
+
 .ancientfont {
   font-family: 'Rock Salt', cursive;
 }
