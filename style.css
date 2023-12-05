@@ -65,7 +65,16 @@ body.mainpage {
 }
 
 .ancientfont {
-  font-family: ;
+  font-family: 'Rock Salt', cursive;
+}
+
+.ancientfontheader {
+  font-family: 'Rock Salt', cursive;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+
+.paragraphfont {
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* https://fonts.google.com/specimen/Caesar+Dressing */
